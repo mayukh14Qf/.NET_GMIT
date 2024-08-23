@@ -1,0 +1,16 @@
+﻿h3{
+
+    width: 400px;
+    font-size:large;
+    background-color:brown;
+    color:chartreuse;
+    text-align:center;
+
+    text-decoration:underline;
+    text-decoration-style:dashed;
+    text-decoration-color:pink;
+}
+
+#Button1{
+    cursor:pointer;
+}
